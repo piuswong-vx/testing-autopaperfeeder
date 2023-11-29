@@ -1,7 +1,7 @@
 # Use this code to feed paper automatically into a device for testing.
 # Timing parameters here are general and not customized for a system.
 # This is meant to send out a stack of sheets of paper, one by one.
-# Hardware setup info here: https://github.com/piuswong-vx/sandbox-rpi
+# Hardware setup info here: https://github.com/votingworks/testing-autopaperfeeder
 # For more info, contact pius@voting.works
 
 # Initialize program

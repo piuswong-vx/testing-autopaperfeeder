@@ -1,6 +1,6 @@
 # Use this code to help test if the paper feeder is set up correctly.
 # This is meant to send out a stack of sheets of paper, one by one.
-# Hardware setup info here: https://github.com/piuswong-vx/sandbox-rpi
+# Hardware setup info here: https://github.com/votingworks/testing-autopaperfeeder
 
 import RPi.GPIO as GPIO
 import time
