@@ -183,7 +183,6 @@ try:
                         if (cycles > 1) and not objDetectedThisCycle:
                             endOfPaper = True
                             print("*** End of paper detected! ***")
-            print(objDetectedLastCycle, objDetectedThisCycle)
             # add feature here to listen for error chimes (wip)
 
         # Display cycle data
